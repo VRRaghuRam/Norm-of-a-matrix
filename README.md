@@ -13,12 +13,12 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:212224220075
 # Developed By:Raghu Ram V R
 # 1-Norm of a Matrix
-```
+
 import numpy as np
 matrix=np.array(eval(input()))
 result=np.linalg.norm(matrix,1)
 print(result)
-```
+
 
 
 # 2-Norm of a Matrix
